@@ -11,10 +11,16 @@ In order to help organizations make data-driven decisions, this project seeks to
 ## Objectives
 
 1.**Database and Table Creation**: Create a database and relevant tables to store sales transactions, product categories, customer information, and other necessary data.
+
 2.**Data Exploration and Cleaning**: Explore the dataset to check for inconsistencies or missing data and clean it to ensure accurate and reliable analyses.
+
 3.**Monthly Sales Trends**: Calculate the average sale for each month and identify the best-selling month in each year, helping to understand seasonal sales patterns.
+
 4.**Shift-based Sales Analysis**: Categorize sales by different time shifts (Morning, Afternoon, Evening) and calculate the number of orders placed in each shift.
+
 5.**Top Customers**: Identify the top 5 customers with the highest total sales, which can help retailers focus on their most valuable customers.
+
+
 ## Project Overflow
 ### 1. Database Setup
 
