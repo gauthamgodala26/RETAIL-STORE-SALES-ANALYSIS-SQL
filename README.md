@@ -194,9 +194,13 @@ GROUP BY shift
 ## Reports
 
 -**Seasonality**: Monthly sales trends reveal the best-selling months for different years, helping retailers to plan inventory, sales strategies, and promotions for peak seasons.
+
 -**Top Customers**: Identifying top customers based on total sales allows businesses to foster customer loyalty and incentivize repeat purchases from their most valuable customers.
+
 -**Sales Shifts**: Categorizing sales into time shifts (morning, afternoon, evening) provides a clear understanding of when most transactions occur, guiding staffing and operational decisions to optimize sales during peak hours.
+
 -**Category Performance**: Certain categories, such as 'Clothing' and 'Beauty,' show varying levels of customer interest and sales volumes, allowing businesses to focus on high-performing areas.
+
 ## Conclusion
 
 The Retail Sales SQL project provides significant insights into the dynamics of retail sales by analyzing customer behavior, product performance, and seasonal sales trends across multiple categories thereby helping businesses to make informed decisions.
