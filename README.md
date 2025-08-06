@@ -210,21 +210,21 @@ GROUP BY shift
 ----
  Business Impact:
  
-🚀 Seasonal Sales Trends – Optimize promotions & inventory based on high-revenue months
+. Seasonal Sales Trends – Optimize promotions & inventory based on high-revenue months
 
-🔥 High-Value Customers – Retain top-spending customers with targeted marketing
+. High-Value Customers – Retain top-spending customers with targeted marketing
 
-🕒 Time-Based Sales Insights – Adjust store hours & staffing for peak demand
+. Time-Based Sales Insights – Adjust store hours & staffing for peak demand
 
-📈 Category Performance – Improve product strategy to increase sales & reduce waste
+. Category Performance – Improve product strategy to increase sales & reduce waste
 
 ----
 
 
-🚀 Conclusion:
+ Conclusion:
 
 This SQL project transforms raw sales data into actionable intelligence, helping businesses optimize revenue, improve operations, and sharpen decision-making.
 
-💡 Data-Driven Decisions = Higher Revenue, Lower Costs, Smarter Growth!
+ Data-Driven Decisions = Higher Revenue, Lower Costs, Smarter Growth!
 
 
